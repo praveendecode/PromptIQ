@@ -123,6 +123,22 @@
    - Incorporated a feature allowing users to contribute information for knowledge base, enhancing the system's ability to answer questions based on user-provided data.
    - Enables users to actively participate in improving the system's knowledge and enhances the range of answers the system can provide.
 
+# **Access UI Steps:**
+
+### **Run Streamlit App:**
+   - Execute the command `streamlit run prompt_iq.py` in the terminal to launch the Streamlit app.
+   - Ensure the `prompt_iq.py` file is included for appropriate functionality.
+
+### **Provide OpenAPI Key:**
+   - Edit the `.env` file to include your OpenAPI key, ensuring proper authentication for accessing the desired features.
+   - This key is essential for utilizing the OpenAI Turbo language model and enabling its capabilities in the UI.
+
+### **Utilize Different Options in UI:**
+   - Explore the UI to access various NLP tasks.
+   - Experiment with different options such as sentiment analysis, language translation, speech synthesis, summarization, and question answering.
+   - Interact with the provided functionalities and observe the model's responses based on the input and prompts.
+
+
 # **Technical Concepts :**
 
   - Natural Language Processing
