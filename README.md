@@ -8,7 +8,6 @@
 
 # **Main Features** 
 
-  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/7b1d7cdf-72c9-4a95-af9f-4b0b14a783a3)
 
 
 ### **Sentiment Analysis**
