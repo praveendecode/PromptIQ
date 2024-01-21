@@ -106,8 +106,8 @@
 ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/440f592f-be4b-40f1-9746-5286d0319d1f)
 
 
-### **Unified Chain of Thoughts Model:**
-   - Employed a unified chain of thoughts model that seamlessly integrates across different NLP tasks, including question answering.
+### **Chain of Thoughts Instruction**
+   - Employed a chain of thoughts Instrucntion to model that seamlessly integrates question answering.
    - Facilitates a cohesive approach to understanding and processing diverse textual data, ensuring enhanced performance in answering user queries.
 
 ### **Context-Aware Answers with Chain of Thoughts:**
@@ -117,4 +117,9 @@
 ### **Adaptive Question Processing with Chain of Thoughts:**
    - Implemented a chain of thoughts model that adapts to varying question formats, providing versatility in handling different linguistic structures.
    - Enables the system to effectively process and respond to a wide range of user queries.
+
+### Knowledge Base Answers from User-Provided Information:
+
+   - Incorporated a feature allowing users to contribute information for knowledge base, enhancing the system's ability to answer questions based on user-provided data.
+   - Enables users to actively participate in improving the system's knowledge and enhances the range of answers the system can provide.
 
