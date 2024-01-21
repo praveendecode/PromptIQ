@@ -123,7 +123,7 @@
    - Incorporated a feature allowing users to contribute information for knowledge base, enhancing the system's ability to answer questions based on user-provided data.
    - Enables users to actively participate in improving the system's knowledge and enhances the range of answers the system can provide.
 
-# Technical Concepts :
+# **Technical Concepts :**
 
   - Natural Language Processing
     
@@ -150,3 +150,13 @@
   - Table Question Answering
     
   - QA Systems
+
+# **Tools Covered :**
+
+  - Python
+    
+  - OpenAI API Intergration
+    
+  - Streamlit web application
+    
+  - Google Text to Speech
