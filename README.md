@@ -7,3 +7,8 @@
 ### **The purpose of this initiative is to develop a distinctive AI application, integrating OpenAI Turbo's advanced language model. It is tailored for seamless user interactions, excelling in various NLP tasks such as sentiment analysis, language translation, speech synthesis, summarization, and question answering Using various Prompting Techniques**
 
 # **Main Features** 
+
+  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/7b1d7cdf-72c9-4a95-af9f-4b0b14a783a3)
+
+
+### **Sentiment Analysis**
