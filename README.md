@@ -160,3 +160,8 @@
   - Streamlit web application
     
   - Google Text to Speech
+
+
+# **Conclusion:**
+- **This project main goal is to build our custom AI app by using effecient prompting and  offers an accessible and efficient means of performing various NLP tasks through an interactive Streamlit UI. It facilitates Sentiment Analysis, Language Translation, Speech Synthesis, Summarization, Table Question Answering, and Question Answering, making it a versatile tool for language processing and data extraction tasks.**
+
