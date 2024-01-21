@@ -1,0 +1,13 @@
+openai
+streamlit
+textblob
+streamlit-option-menu
+streamlit-extras
+streamlit-lottie
+googletrans==4.0.0-rc1
+gtts
+pandas
+python-dotenv
+langchain
+pymongo
+
