@@ -13,7 +13,7 @@ class OPEN_AI:
 
         api = os.getenv('OPENAI_API_KEY')
 
-        client = openai.OpenAI(api_key='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')
+        client = openai.OpenAI(api_key=api)
 
         response = client.chat.completions.create(
             model = model,
