@@ -14,8 +14,8 @@
 
 # **1. Sentiment Analysis**
 
+![image](https://github.com/praveendecode/PromptIQ/assets/95226524/7aa46cab-9cd8-4ece-8778-67deb38ca48f)
 
-  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/069135e2-dc3a-42ef-9d8c-822eafedde93)
 
 
 
@@ -60,7 +60,7 @@
 
 # **3.Summarization with Zero Shot Learning:**
 
-![image](https://github.com/praveendecode/PromptIQ/assets/95226524/c763f35c-ec43-4665-aff5-6974b9e53033)
+  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/069135e2-dc3a-42ef-9d8c-822eafedde93)
 
 ### **Zero-Shot Coherence in Summaries:**
    - Applied zero-shot learning principles to promote coherent and contextually relevant summarizations.
