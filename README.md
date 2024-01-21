@@ -36,6 +36,9 @@
 
 # **Language Translation with Zero-Shot Learning:**
 
+![image](https://github.com/praveendecode/PromptIQ/assets/95226524/0b8911e4-63cd-4657-9619-6d656742d055)
+
+
 
 1. **Zero-Shot Flexibility:**
    - Implemented zero-shot learning, allowing users to translate text between languages without the need for explicit training in each language pair.
