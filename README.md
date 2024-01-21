@@ -123,3 +123,30 @@
    - Incorporated a feature allowing users to contribute information for knowledge base, enhancing the system's ability to answer questions based on user-provided data.
    - Enables users to actively participate in improving the system's knowledge and enhances the range of answers the system can provide.
 
+# Technical Concepts :
+
+  - Natural Language Processing
+    
+  - Streamlit Web Framework
+    
+  - Large Language Model
+
+  - Prompt Engineering
+
+  - Zero Shot Learning
+
+  - Few Shot Leanring
+
+  - Chain of thoughts
+    
+  - Sentiment Analysis
+    
+  - Language Translation
+    
+  - Speech Synthesis
+    
+  - Text Summarization
+    
+  - Table Question Answering
+    
+  - QA Systems
