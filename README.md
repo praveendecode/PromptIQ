@@ -52,9 +52,6 @@
    - Utilized zero-shot learning to consider contextual cues, resulting in more nuanced and contextually appropriate translations.
    - Enhances the quality of translations by capturing the intended meaning in diverse linguistic contexts.
 
-### **User-Friendly Interface:**
-   - Integrated the zero-shot language translation feature into a user-friendly interface, ensuring accessibility for users with varying language needs.
-   - Provides a straightforward and efficient means for users to perform translations without the need for specialized knowledge.
 
 
 
@@ -74,7 +71,7 @@
    - Incorporated a zero-shot learning paradigm for generating variable-length summaries, accommodating diverse user preferences and input complexities.
    - Provides adaptability in summary length without the need for explicit training data for each desired length.
 
-### **Zero-Shot Dynamic Content Understanding:**
+### **Zero-Shot Content Inferencing:**
    - Implemented a dynamic zero-shot learning approach to adapt to nuances in input content, resulting in more nuanced and informative summaries.
    - Ensures that the zero-shot learning process comprehensively understands and summarizes text without task-specific training.
 
@@ -97,9 +94,6 @@
    - Implemented a dynamic chain of thoughts model that adapts to varying table formats, allowing for a more versatile table question answering system.
    - Provides flexibility in handling tables with different structures and schemas.
 
-### **User-Guided Table Interactions:**
-   - Integrated user-friendly features that allow users to guide the system's attention within tables using a chain of thoughts.
-   - Enhances user control over the table question answering process, ensuring a more interactive and tailored experience.
 
 # **5.Question Answering System with Chain of Thoughts**
 
