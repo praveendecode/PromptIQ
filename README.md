@@ -36,7 +36,7 @@
 
 # **2.Language Translation with Zero-Shot Learning:**
 
-![image](https://github.com/praveendecode/PromptIQ/assets/95226524/0b8911e4-63cd-4657-9619-6d656742d055)
+ ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/35d06ed5-d629-40c9-acaf-48fa994cd262)
 
 
 
