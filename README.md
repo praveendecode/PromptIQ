@@ -82,6 +82,9 @@
 
 
 # **4.Table Question Answering System with Chain of Thoughts:**
+
+   ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/8226a4d5-e98b-4f8d-9c79-40115fff369d)
+
 ### **Structured Data Understanding:**
    - Integrated a chain of thoughts approach to enhance the understanding of structured tabular data.
    - Improves the system's ability to derive meaningful answers from tables with diverse structures.
