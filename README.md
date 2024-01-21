@@ -101,3 +101,20 @@
    - Integrated user-friendly features that allow users to guide the system's attention within tables using a chain of thoughts.
    - Enhances user control over the table question answering process, ensuring a more interactive and tailored experience.
 
+# **5.Question Answering System with Chain of Thoughts**
+
+![image](https://github.com/praveendecode/PromptIQ/assets/95226524/440f592f-be4b-40f1-9746-5286d0319d1f)
+
+
+### **Unified Chain of Thoughts Model:**
+   - Employed a unified chain of thoughts model that seamlessly integrates across different NLP tasks, including question answering.
+   - Facilitates a cohesive approach to understanding and processing diverse textual data, ensuring enhanced performance in answering user queries.
+
+### **Context-Aware Answers with Chain of Thoughts:**
+   - Leveraged the chain of thoughts technique to generate context-aware answers by understanding the relationships within the given context.
+   - Enhances the precision and relevance of answers by considering the broader context in which the questions are posed.
+
+### **Adaptive Question Processing with Chain of Thoughts:**
+   - Implemented a chain of thoughts model that adapts to varying question formats, providing versatility in handling different linguistic structures.
+   - Enables the system to effectively process and respond to a wide range of user queries.
+
