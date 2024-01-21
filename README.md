@@ -34,25 +34,25 @@
    - Demonstrated effective examples of prompting the model for insightful sentiment analysis results.
 
 
-# **Language Translation with Zero-Shot Learning:**
+# **2.Language Translation with Zero-Shot Learning:**
 
 ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/0b8911e4-63cd-4657-9619-6d656742d055)
 
 
 
-1. **Zero-Shot Flexibility:**
+##  **Zero-Shot Flexibility:**
    - Implemented zero-shot learning, allowing users to translate text between languages without the need for explicit training in each language pair.
    - Enhances the adaptability of the language translator to a wide range of translation scenarios.
 
-2. **Multilingual Support:**
+##  **Multilingual Support:**
    - Leveraged zero-shot capabilities to support translation across multiple languages seamlessly.
    - Users can intuitively request translations between languages not explicitly trained, expanding the application's language coverage.
 
-3. **Context-Aware Translations:**
+## **Context-Aware Translations:**
    - Utilized zero-shot learning to consider contextual cues, resulting in more nuanced and contextually appropriate translations.
    - Enhances the quality of translations by capturing the intended meaning in diverse linguistic contexts.
 
-4. **User-Friendly Interface:**
+##  **User-Friendly Interface:**
    - Integrated the zero-shot language translation feature into a user-friendly interface, ensuring accessibility for users with varying language needs.
    - Provides a straightforward and efficient means for users to perform translations without the need for specialized knowledge.
 
