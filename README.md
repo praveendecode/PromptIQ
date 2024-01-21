@@ -58,23 +58,25 @@
 
 
 
-# **3.Summarization with Chain of Thoughts:**
-### **Coherent Summaries:**
-   - Implemented a chain of thoughts approach to generate more coherent and contextually relevant summaries.
-   - Ensures that the summarization output captures the essential information in a logical and connected manner.
+# **3.Summarization with Zero Shot Learning:**
 
-### **Context Preservation:**
-   - Utilized the chain of thoughts technique to preserve the context of the input text during summarization.
-   - Enhances the quality of summaries by maintaining a more accurate representation of the original content.
+![image](https://github.com/praveendecode/PromptIQ/assets/95226524/c763f35c-ec43-4665-aff5-6974b9e53033)
 
-### **Variable Length Summaries:**
-   - Incorporated a flexible chain of thoughts model to generate variable-length summaries based on user preferences or input content complexity.
-   - Provides adaptability in summarization output length to suit different use cases.
+### **Zero-Shot Coherence in Summaries:**
+   - Applied zero-shot learning principles to promote coherent and contextually relevant summarizations.
+   - Ensures the summarization output seamlessly captures essential information with minimal explicit training.
 
-### **Dynamic Content Understanding:**
-   - Implemented a dynamic chain of thoughts mechanism that adapts to the nuances of the input content, resulting in more nuanced and informative summaries.
-   - Ensures that the summarization process takes into account the intricacies of the input text.
+### **Context Preservation through Zero-Shot Learning:**
+   - Leveraged zero-shot learning techniques to effectively preserve the context of the input text in the summarization process.
+   - Enhances summary quality by maintaining a faithful representation of the original content without specific training examples.
 
+### **Zero-Shot Adaptability for Variable-Length Summaries:**
+   - Incorporated a zero-shot learning paradigm for generating variable-length summaries, accommodating diverse user preferences and input complexities.
+   - Provides adaptability in summary length without the need for explicit training data for each desired length.
+
+### **Zero-Shot Dynamic Content Understanding:**
+   - Implemented a dynamic zero-shot learning approach to adapt to nuances in input content, resulting in more nuanced and informative summaries.
+   - Ensures that the zero-shot learning process comprehensively understands and summarizes text without task-specific training.
 
 
 
