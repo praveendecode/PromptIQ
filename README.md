@@ -20,14 +20,12 @@
    - Integrated examples showcasing how users can prompt the language model effectively for desired responses.
 
 ## **OpenAI Turbo Language Model Integration:**
-   - Utilized OpenAI Turbo's advanced language model to empower the AI app with state-of-the-art natural language processing capabilities.
+   - Utilized OpenAI Turbo's gpt-3.5-turbo advanced language model to empower the AI app with state-of-the-art natural language processing capabilities.
 
 ## **User-Friendly Interface:**
    - Designed an intuitive user interface (UI) for seamless interactions, ensuring that users can easily access and utilize the AI functionalities.
 
-## **Ideal Sentiment Analysis:**
+## **Good Performing Sentiment Analysis:**
    - Provided users with access to perform sentiment analysis effortlessly through the UI.
-   - Demonstrated effective examples of prompting the model for accurate and insightful sentiment analysis results.
+   - Demonstrated effective examples of prompting the model for insightful sentiment analysis results.
 
-## **Readme Accessibility:**
-   - Included comprehensive documentation in the README, guiding users on leveraging few-shot learning, interacting with the UI, and maximizing the potential of sentiment analysis using the application.
