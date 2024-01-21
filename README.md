@@ -15,9 +15,9 @@
 # **1. Sentiment Analysis**
 
 
+  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/069135e2-dc3a-42ef-9d8c-822eafedde93)
 
 
-  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/2dffe72b-d4b2-4275-8c85-2a68610d0390)
 
  ### **Few-Shot Learning Techniques:**
    - Employed cutting-edge few-shot learning prompting techniques to enhance the model's adaptability.
