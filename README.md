@@ -1,5 +1,6 @@
-# prompt IQ 
+# PROMPT IQ 
 
+![image](https://github.com/praveendecode/PromptIQ/assets/95226524/8874cd98-f795-4a41-9229-3ecd27f7fc62)
 
 
 # **Why This Project**
