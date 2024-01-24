@@ -12,7 +12,7 @@
 
 
 
-# **1. Sentiment Analysis**
+# **1. Sentiment Analysis:**
 
 ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/7aa46cab-9cd8-4ece-8778-67deb38ca48f)
 
@@ -34,15 +34,9 @@
    - Demonstrated effective examples of prompting the model for insightful sentiment analysis results.
 
 
-# **2.Language Translation with Zero-Shot Learning:**
+# **2.Language Translation:**
 
  ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/35d06ed5-d629-40c9-acaf-48fa994cd262)
-
-
-
-###  **Zero-Shot Flexibility:**
-   - Implemented zero-shot learning, allowing users to translate text between languages without the need for explicit training in each language pair.
-   - Enhances the adaptability of the language translator to a wide range of translation scenarios.
 
 ### **Multilingual Support:**
    - Leveraged zero-shot capabilities to support translation across multiple languages seamlessly.
@@ -55,25 +49,22 @@
 
 
 
-# **3.Summarization with Zero Shot Learning:**
+# **3.Summarization:**
 
   ![image](https://github.com/praveendecode/PromptIQ/assets/95226524/069135e2-dc3a-42ef-9d8c-822eafedde93)
 
-### **Zero-Shot Coherence in Summaries:**
-   - Applied zero-shot learning principles to promote coherent and contextually relevant summarizations.
-   - Ensures the summarization output seamlessly captures essential information with minimal explicit training.
 
 ### **Context Preservation through Zero-Shot Learning:**
    - Leveraged zero-shot learning techniques to effectively preserve the context of the input text in the summarization process.
    - Enhances summary quality by maintaining a faithful representation of the original content without specific training examples.
 
-### **Zero-Shot Adaptability for Variable-Length Summaries:**
+### **Adaptability for Variable-Length Summaries:**
    - Incorporated a zero-shot learning paradigm for generating variable-length summaries, accommodating diverse user preferences and input complexities.
    - Provides adaptability in summary length without the need for explicit training data for each desired length.
 
-### **Zero-Shot Content Inferencing:**
-   - Implemented a dynamic zero-shot learning approach to adapt to nuances in input content, resulting in more nuanced and informative summaries.
-   - Ensures that the zero-shot learning process comprehensively understands and summarizes text without task-specific training.
+### **Content Inferencing:**
+   - Implemented a Instruction learning approach to adapt to nuances in input content, resulting in more nuanced and informative summaries.
+   - Ensures that the learning process comprehensively understands and summarizes text without task-specific training.
 
 
 
